@@ -1,0 +1,6 @@
+{
+  "name": "Second Opinion",
+  "description": "A scam and misinformation checker for university students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
